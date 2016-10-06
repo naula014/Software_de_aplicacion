@@ -59,9 +59,44 @@ AS-3: El area de logistica mantendra su informacion actualizada en todo momento.
 DE-1: Compra de 1 servidor dedicado a base de datos y web.
 DE-2: Contratado de empresa proveedora de tendido de cableado.(Claro o Telefonica)
 7. Constraints
-<Identify known project constraints, such as products to be reused, components to be acquired, interfaces to other projects or products, or technologies to be employed. Describe the priorities among the project’s features, quality objectives, schedule, staff, and budget. The following table identifies the parameters around the project’s key drivers (top priority objectives), constraints to work within, and dimensions that can be balanced against each other to achieve the drivers within the known constraints. Example:>
+7.	Restricciones
 
-(CUADRO DE CONTENIDO EN EL WORD, A QUIEN REALICE ESTO ME LO ENVIA COMO CAPTURA DE PANTALLA).
+
+Dimensiones	                                  Restricciones
+Características
+-	Una vez que se confirma la entrega del producto vía internet no se aceptarán cambios en la entrega
+
+-	El proyecto, una vez terminado, será probado durante 1 meses, para comprobar su correcto funcionamiento
+
+-	El sistema de entrega de producto solo está disponible desde las 8 am hasta las 8 pm
+Calidad	
+-	El sistema de ventas es rápido y es estable, es decir, tiene muy pocas probabilidades de presentar errores
+
+-	El sistema facilita que el usuario encuentre lo que desea sin perder tiempo innecesario
+
+-	El sistema indicará que el producto está listo para ser entregado apenas se confirme esa información
+Costo	
+-	El costo del proyecto es de 50 000.00 dólares, sin embargo, tiene un presupuesto adicional máximo de 10 000 .00 dólares, si es que algunos recursos suben de precio
+
+-	La empresa deberá pagarle al equipo de desarrollo 5 000 dólares  mensualmente y a la directora del proyecto 10 000 dólares  hasta completar el monto total
+
+-	En el caso que se use un presupuesto adicional menor a 10 .000 dólares, se realizará el pago al finalizar el proyecto
+
+Horario
+-	El desarrollo se realizará en el área de cómputo, donde se trabajará 8 horas por día de lunes a viernes , es decir 40 horas a la semana
+
+-	Se realizará un mínimo de 10 reuniones entre la empresa y el equipo de desarrollo para que se verifique el estado del sistema
+
+-	Los recursos se deben adquirir antes de que el equipo empiece con el desarrollo del sistema, puesto que de ese modo se podrá empezar puntualmente y finalizar en el tiempo acordado
+
+-	El incumplimiento del pago mensual por el sistema puede ocasionar que se suspenda o cancele el desarrollo del mismo
+
+Personal	
+-	El equipo constará de 4 personas , entre el jefe del proyecto, el analista, el administrador de base de datos y el programador
+
+-	 Se puede añadir un analista y/o un programador más si se considera necesario.
+
+
 
 8. Milestones
 <Include a list of major project milestones and key deliverables, their target dates, and the team role or individual who is responsible for each one. It's not necessary to include the target date for each milestone unless they are fixed constraints. The following table illustrates some typical milestones; change this list as appropriate for your project.>
