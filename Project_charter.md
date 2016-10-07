@@ -19,7 +19,7 @@ dgfkkjhg
 <Describe the important business objectives of the product in a way that is quantitative and measurable. These could include revenue increase, cost savings, return on investment, or target release dates. Determine how success will be defined and measured on this project. Describe the factors that are likely to have the greatest impact on achieving that success. Establish measurable criteria to judge whether project has met its business objectives.>
 3. Stakeholders
 <Stakeholders are individuals, groups, or organizations that are actively involved in a project, are affected by its outcome, or can influence its outcome. The stakeholder profiles identify the project sponsor, project manager, customers for this product, and other stakeholders. Identify business-level customers, target market segments, and significant user classes. For each stakeholder category, describe the major benefits they will receive from the product, their likely attitudes toward the project, what constitutes a win or success for the stakeholder, and any known constraints that must be accommodated. You might include a table that lists affected business areas and organizations and describes the impact the project will have on them.>
-
+ss
 Stakeholder
   Project Sponsor
   Project Manager
